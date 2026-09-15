@@ -1,2 +1,20 @@
-# One-page
-A modern, premium SaaS website for OnePage, built for creators, influencers, coaches, consultants, freelancers, and digital entrepreneurs. The platform helps users turn their audience into customers by selling digital products, services, and courses through one simple link, with a clean, fast, mobile-first experience and a powerful creator-focused 
+# OnePage Homepage — Independent Portfolio Concept
+
+A responsive React + Vite homepage concept inspired by the public OnePage UI/UX project brief.
+
+## Run
+
+```bash
+npm install
+npm run dev
+```
+
+Then open the local Vite URL shown in the terminal.
+
+## Build
+
+```bash
+npm run build
+```
+
+This is an independent portfolio concept. It is not presented as official OnePage client work.
