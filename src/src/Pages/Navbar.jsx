@@ -1,2 +1,0 @@
-import { Menu } from 'lucide-react';
-export default function Navbar(){return <header className="nav"><a className="logo" href="#">one<span>page</span></a><nav><a href="#how">How it works</a><a href="#offerings">What you can sell</a><a href="#dashboard">Dashboard</a></nav><div className="nav-actions"><button className="link-btn">Log in</button><button className="btn btn-dark">Get started</button><button className="menu-btn"><Menu size={22}/></button></div></header>}
